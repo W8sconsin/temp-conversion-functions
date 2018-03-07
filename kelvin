@@ -1,0 +1,8 @@
+    function kelvinToF(temp){
+      //F = 9/5 (K - 273) + 32
+      return 9/5 (temp - 273) + 32;
+    }
+    function kelvinToC(temp){
+      //C = K - 273
+      return temp - 273;
+    }
